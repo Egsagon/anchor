@@ -22,3 +22,5 @@ anchor.FONT_COLOR = anchor.COLOR.get(color)
 
 anchor.banner(f'**{color}!** I love that color too! ^^')
 ```
+
+![](https://github.com/Egsagon/anchor/blob/88db7192d79514c872d46a8aa8cbb6f3f4db69a5/demo.png)
